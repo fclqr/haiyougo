@@ -17,9 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>
-
-com.bieguanlehoc.mogen</string>
+				<string>com.bieguanlehoc.mogen</string>
 				<key>bundle-version</key>
 				<string>4.0</string>
 				<key>kind</key>
