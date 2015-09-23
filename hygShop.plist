@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bieguanlehoc.shop</string>
+				<string>com.haiyougo.shop</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>嗨优购</string>
+				<string>嗨优购云管家</string>
 			</dict>
 		</dict>
 	</array>
